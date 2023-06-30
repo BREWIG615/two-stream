@@ -1,0 +1,1001 @@
+element,dept,color,country,planned $ amt,actual $ amt
+Fermium,Business Development,Puce,Philippines,2133,2955
+Radium,Accounting,Green,Malaysia,4655,1326
+Fermium,Research and Development,Goldenrod,Philippines,4131,2448
+Bismuth,Human Resources,Blue,China,3936,3475
+Uranium,Product Management,Teal,Bangladesh,2995,2040
+Gold,Sales,Orange,Indonesia,3755,1520
+Astatine,Marketing,Yellow,Colombia,4881,4040
+Polonium,Accounting,Red,Brazil,4969,1093
+Einsteinium,Support,Khaki,France,4745,4116
+Thorium,Business Development,Teal,Bangladesh,3179,2842
+Californium,Human Resources,Turquoise,Mongolia,2787,4650
+Fermium,Support,Khaki,China,2722,3505
+Mendelevium,Accounting,Fuscia,Russia,2581,2420
+Protactinium,Sales,Green,Indonesia,1056,2478
+Mercury,Marketing,Khaki,Nigeria,4812,3768
+Platinum,Engineering,Orange,Indonesia,4807,4772
+Radon,Business Development,Yellow,China,4888,1749
+Actinium,Human Resources,Mauv,Bolivia,4456,4927
+Berkelium,Product Management,Fuscia,Somalia,4788,1559
+Americium,Human Resources,Blue,Indonesia,1797,4396
+Bismuth,Research and Development,Yellow,Italy,3000,4318
+Thorium,Business Development,Khaki,Poland,3523,4423
+Fermium,Engineering,Mauv,South Africa,4118,3005
+Actinium,Engineering,Red,Indonesia,3266,2390
+Platinum,Engineering,Yellow,China,1860,1171
+Californium,Support,Crimson,Nigeria,4695,1745
+Californium,Engineering,Turquoise,China,1231,3828
+Radium,Sales,Indigo,Vietnam,3044,4664
+Polonium,Research and Development,Aquamarine,Malaysia,2764,1560
+Thorium,Human Resources,Maroon,China,4419,4402
+Gold,Human Resources,Indigo,Croatia,3160,3269
+Platinum,Product Management,Violet,Philippines,2760,2595
+Actinium,Business Development,Khaki,Peru,4758,4287
+Polonium,Accounting,Turquoise,Syria,3893,1408
+Thorium,Marketing,Purple,Venezuela,2769,3018
+Polonium,Product Management,Teal,Indonesia,2040,4737
+Iridium,Legal,Maroon,Israel,1977,1184
+Californium,Services,Indigo,New Zealand,1308,3521
+Bismuth,Sales,Crimson,China,2360,3064
+Plutonium,Human Resources,Orange,Thailand,2082,1541
+Plutonium,Marketing,Orange,China,2753,2140
+Gold,Accounting,Fuscia,Russia,2083,2523
+Curium,Services,Indigo,Afghanistan,4098,1380
+Curium,Research and Development,Orange,Argentina,2114,4619
+Thallium,Engineering,Aquamarine,Namibia,1648,1829
+Astatine,Legal,Teal,Sweden,4254,3783
+Californium,Engineering,Blue,Portugal,1734,2761
+Americium,Services,Crimson,China,1773,3497
+Curium,Support,Aquamarine,Panama,2447,2801
+Berkelium,Human Resources,Maroon,Indonesia,3562,3249
+Bismuth,Business Development,Maroon,Peru,2874,3520
+Francium,Research and Development,Mauv,South Korea,1079,4450
+Uranium,Services,Pink,Portugal,3172,2215
+Radon,Business Development,Turquoise,China,2622,3321
+Astatine,Accounting,Puce,Philippines,3562,3814
+Mendelevium,Training,Crimson,Japan,4711,3284
+Astatine,Training,Green,Philippines,3058,3245
+Americium,Sales,Khaki,Indonesia,2170,3301
+Fermium,Business Development,Aquamarine,France,2141,4462
+Radium,Accounting,Mauv,Brazil,4596,4385
+Thallium,Engineering,Goldenrod,Philippines,4155,4559
+Gold,Support,Pink,Brazil,2368,4502
+Neptunium,Engineering,Crimson,Bulgaria,3833,4938
+Iridium,Support,Green,China,2504,2703
+Actinium,Support,Indigo,Poland,2560,1620
+Iridium,Human Resources,Goldenrod,Ivory Coast,3089,2780
+Lawrencium,Product Management,Purple,Tanzania,2523,2084
+Nobelium,Research and Development,Violet,Poland,4183,2424
+Actinium,Marketing,Teal,Japan,4489,3504
+Einsteinium,Accounting,Orange,Macedonia,3164,1168
+Plutonium,Sales,Purple,Peru,1581,3436
+Actinium,Research and Development,Crimson,Ireland,4760,3209
+Platinum,Support,Aquamarine,Philippines,2825,2119
+Lead,Human Resources,Aquamarine,China,2130,1670
+Astatine,Training,Teal,China,3646,3132
+Radon,Engineering,Pink,Russia,1411,4298
+Plutonium,Training,Fuscia,Poland,1151,1872
+Radium,Marketing,Pink,Afghanistan,4626,4945
+Actinium,Support,Aquamarine,Russia,2402,2578
+Uranium,Engineering,Yellow,Greece,3807,1262
+Actinium,Training,Turquoise,China,4752,2005
+Einsteinium,Legal,Indigo,Russia,4301,3800
+Berkelium,Human Resources,Aquamarine,Poland,4509,3861
+Francium,Research and Development,Turquoise,Indonesia,4946,3897
+Plutonium,Human Resources,Mauv,Tanzania,3696,2684
+Uranium,Human Resources,Red,Honduras,2029,3421
+Mendelevium,Human Resources,Crimson,Portugal,4396,2083
+Astatine,Legal,Teal,Russia,1265,2342
+Lawrencium,Marketing,Teal,Russia,1624,3592
+Mercury,Business Development,Orange,China,2204,4374
+Polonium,Legal,Teal,France,1486,1496
+Fermium,Accounting,Crimson,China,4888,1196
+Lead,Accounting,Violet,Sweden,3314,1035
+Lead,Support,Turquoise,South Africa,3717,1538
+Curium,Research and Development,Maroon,China,1646,1465
+Iridium,Marketing,Khaki,Ukraine,4652,4039
+Nobelium,Training,Indigo,Argentina,1409,2016
+Lead,Services,Blue,China,2319,2184
+Radium,Research and Development,Fuscia,Portugal,3329,1262
+Plutonium,Business Development,Yellow,Russia,4172,1599
+Berkelium,Services,Yellow,Serbia,3058,2348
+Astatine,Sales,Red,China,3210,3929
+Actinium,Legal,Green,Panama,4011,3426
+Polonium,Support,Purple,China,2831,3957
+Astatine,Accounting,Turquoise,Bolivia,3709,2913
+Astatine,Engineering,Puce,Czech Republic,2713,4123
+Radium,Engineering,Mauv,China,3849,2223
+Californium,Accounting,Purple,Greece,4784,4671
+Mercury,Sales,Purple,Czech Republic,2263,2440
+Polonium,Engineering,Fuscia,Pakistan,1696,1047
+Mendelevium,Legal,Turquoise,United States,3550,2435
+Gold,Human Resources,Mauv,Philippines,2365,3354
+Berkelium,Marketing,Fuscia,Ecuador,1642,4942
+Protactinium,Training,Puce,Colombia,2808,1345
+Actinium,Training,Pink,China,1551,3395
+Thorium,Engineering,Red,Ecuador,1794,2045
+Francium,Marketing,Goldenrod,Portugal,1105,1004
+Einsteinium,Legal,Blue,United States,3643,2844
+Bismuth,Human Resources,Blue,Tunisia,3925,4342
+Thallium,Marketing,Crimson,Indonesia,2196,1428
+Francium,Research and Development,Red,Philippines,4922,2713
+Curium,Sales,Orange,Israel,4242,2207
+Francium,Accounting,Red,Russia,1091,4495
+Iridium,Marketing,Pink,Philippines,4340,2706
+Fermium,Human Resources,Teal,Poland,3471,3572
+Nobelium,Marketing,Purple,Indonesia,3072,1468
+Thorium,Marketing,Aquamarine,China,1321,1050
+Platinum,Sales,Aquamarine,Jamaica,1039,2256
+Lead,Support,Fuscia,Greece,1268,1158
+Astatine,Human Resources,Violet,China,2412,1838
+Mendelevium,Business Development,Turquoise,China,2149,3402
+Einsteinium,Accounting,Turquoise,Russia,4388,1127
+Fermium,Support,Aquamarine,Indonesia,2748,1741
+Neptunium,Services,Yellow,Germany,1569,4467
+Astatine,Marketing,Blue,Indonesia,1902,3046
+Radon,Training,Maroon,Sweden,3766,2849
+Bismuth,Marketing,Pink,Syria,1719,3574
+Neptunium,Human Resources,Orange,Russia,1207,1153
+Lead,Accounting,Blue,Brazil,1198,4092
+Neptunium,Sales,Aquamarine,China,2181,3738
+Radon,Engineering,Turquoise,Brazil,4518,4333
+Bismuth,Support,Red,China,3004,3080
+Actinium,Accounting,Teal,Thailand,1788,2860
+Nobelium,Engineering,Mauv,China,3186,2019
+Bismuth,Services,Khaki,Portugal,2814,2173
+Californium,Research and Development,Teal,Indonesia,2751,2906
+Americium,Business Development,Mauv,Sweden,4880,2557
+Nobelium,Training,Blue,Panama,4173,2518
+Actinium,Sales,Turquoise,Malaysia,4071,4849
+Americium,Legal,Aquamarine,Croatia,3146,4672
+Iridium,Support,Khaki,Poland,1123,4578
+Astatine,Product Management,Pink,Greece,1352,3098
+Gold,Business Development,Fuscia,Paraguay,3775,1987
+Gold,Research and Development,Aquamarine,Germany,4120,3738
+Einsteinium,Legal,Purple,Philippines,1950,2972
+Iridium,Support,Pink,Argentina,4932,3033
+Platinum,Support,Pink,China,2908,1311
+Fermium,Product Management,Fuscia,Colombia,1719,1835
+Astatine,Business Development,Green,Sweden,4821,2506
+Californium,Business Development,Puce,Russia,3298,3459
+Actinium,Legal,Purple,Poland,1320,3831
+Plutonium,Product Management,Yellow,Vietnam,3074,1948
+Plutonium,Support,Indigo,Ukraine,2035,1382
+Actinium,Sales,Purple,China,2128,1167
+Mercury,Services,Fuscia,Indonesia,3667,1899
+Lead,Training,Turquoise,Canada,4837,4323
+Gold,Marketing,Blue,Poland,1532,4931
+Actinium,Marketing,Maroon,Japan,1481,2677
+Protactinium,Human Resources,Khaki,China,1462,1483
+Radium,Training,Indigo,Russia,1514,1004
+Plutonium,Human Resources,Violet,Georgia,1642,3188
+Plutonium,Training,Aquamarine,Indonesia,1797,3947
+Lead,Support,Pink,China,3922,2789
+Gold,Marketing,Pink,China,1178,2975
+Radon,Legal,Goldenrod,China,1604,2499
+Plutonium,Business Development,Turquoise,Czech Republic,2321,3536
+Mercury,Marketing,Yellow,Poland,1054,1743
+Lead,Training,Pink,Russia,1507,1261
+Einsteinium,Training,Goldenrod,Belarus,4828,1739
+Lead,Legal,Puce,Chile,1962,3372
+Protactinium,Human Resources,Blue,Mexico,4914,2027
+Protactinium,Research and Development,Aquamarine,Canada,4144,1892
+Francium,Marketing,Blue,Bulgaria,3701,3286
+Francium,Product Management,Pink,Malaysia,4607,2795
+Astatine,Engineering,Red,Brazil,4196,4865
+Actinium,Human Resources,Green,Laos,4707,2101
+Curium,Training,Red,Democratic Republic of the Congo,3035,2143
+Lead,Sales,Mauv,Guam,4241,1927
+Plutonium,Marketing,Goldenrod,Nigeria,1487,1785
+Berkelium,Legal,Mauv,Philippines,1335,2540
+Iridium,Sales,Maroon,Poland,4680,4490
+Plutonium,Accounting,Crimson,Finland,3921,1360
+Neptunium,Human Resources,Crimson,China,3102,1018
+Bismuth,Research and Development,Red,Australia,3151,1216
+Uranium,Services,Green,Philippines,1654,2745
+Mercury,Marketing,Aquamarine,Brazil,3056,4276
+Mercury,Accounting,Goldenrod,Thailand,1516,4201
+Iridium,Legal,Khaki,Philippines,2671,2856
+Astatine,Product Management,Red,Czech Republic,4098,3761
+Berkelium,Human Resources,Pink,Ukraine,4819,2285
+Astatine,Support,Blue,Indonesia,2822,1914
+Berkelium,Product Management,Maroon,Japan,3805,3935
+Plutonium,Engineering,Mauv,Brazil,4067,4360
+Radium,Engineering,Orange,Colombia,2089,4784
+Mercury,Business Development,Yellow,China,4887,1945
+Mendelevium,Accounting,Yellow,Indonesia,3786,3042
+Protactinium,Training,Mauv,Mauritania,1515,1582
+Iridium,Marketing,Aquamarine,Russia,3458,3163
+Iridium,Engineering,Fuscia,Brazil,3948,4031
+Radon,Support,Green,Russia,2768,4089
+Iridium,Human Resources,Goldenrod,Ukraine,4291,3834
+Radium,Legal,Khaki,United States,4351,1204
+Radium,Accounting,Goldenrod,South Africa,3823,2811
+Lawrencium,Engineering,Goldenrod,China,1810,2965
+Bismuth,Product Management,Crimson,Indonesia,3378,4863
+Berkelium,Engineering,Aquamarine,Philippines,4078,4304
+Thallium,Training,Goldenrod,Japan,3785,2941
+Einsteinium,Training,Yellow,Indonesia,3735,1783
+Einsteinium,Research and Development,Violet,China,2862,4231
+Mendelevium,Legal,Fuscia,France,3616,4089
+Berkelium,Research and Development,Green,China,2948,3557
+Uranium,Services,Turquoise,France,1172,3216
+Einsteinium,Sales,Blue,Philippines,3654,3485
+Lawrencium,Sales,Violet,China,4894,3502
+Polonium,Research and Development,Maroon,Brazil,2532,2592
+Mercury,Business Development,Blue,China,4730,1743
+Astatine,Legal,Blue,Philippines,1541,4989
+Americium,Services,Orange,Portugal,3360,1386
+Curium,Legal,Teal,Philippines,4230,2416
+Radon,Services,Blue,Argentina,4343,1513
+Lawrencium,Training,Crimson,Indonesia,2661,3010
+Astatine,Support,Blue,France,4740,2963
+Nobelium,Services,Violet,Philippines,1202,4127
+Mendelevium,Engineering,Khaki,China,2623,3513
+Mercury,Marketing,Red,Venezuela,1419,4274
+Bismuth,Sales,Teal,Indonesia,4613,1292
+Lead,Business Development,Maroon,Vietnam,4847,4388
+Mercury,Accounting,Khaki,Peru,1106,2240
+Mendelevium,Legal,Yellow,Iran,3992,2042
+Platinum,Engineering,Blue,Ethiopia,4799,2372
+Protactinium,Training,Purple,Philippines,3156,2023
+Thorium,Support,Turquoise,Libya,4196,3364
+Gold,Legal,Mauv,China,1372,4532
+Francium,Training,Goldenrod,Indonesia,4878,2207
+Berkelium,Research and Development,Red,China,4861,4553
+Mendelevium,Marketing,Green,China,2401,1481
+Fermium,Sales,Pink,Lebanon,4295,4573
+Thorium,Marketing,Turquoise,Philippines,1907,2640
+Californium,Engineering,Aquamarine,North Korea,1454,4873
+Radon,Business Development,Pink,Indonesia,2126,2280
+Mendelevium,Marketing,Red,Madagascar,4466,2709
+Nobelium,Legal,Maroon,Equatorial Guinea,3146,2668
+Iridium,Product Management,Purple,Croatia,2789,2731
+Lead,Accounting,Maroon,China,1612,3127
+Radium,Human Resources,Puce,Czech Republic,4890,1024
+Protactinium,Human Resources,Aquamarine,Moldova,1164,4882
+Bismuth,Engineering,Goldenrod,Russia,1197,3251
+Americium,Accounting,Red,Myanmar,2226,4562
+Americium,Training,Violet,Czech Republic,2088,3270
+Nobelium,Support,Purple,France,1368,4075
+Uranium,Services,Mauv,Thailand,3654,1297
+Thallium,Legal,Blue,Costa Rica,4314,2379
+Fermium,Legal,Fuscia,Poland,3390,1201
+Bismuth,Sales,Orange,Brazil,1626,2462
+Protactinium,Engineering,Blue,Tunisia,4797,4359
+Gold,Sales,Violet,Brazil,3325,2765
+Astatine,Legal,Teal,China,3402,1953
+Mendelevium,Research and Development,Purple,Argentina,4948,4714
+Thorium,Product Management,Green,Portugal,3229,3939
+Mercury,Legal,Pink,Morocco,2334,3915
+Neptunium,Business Development,Orange,Belarus,1042,4925
+Radium,Research and Development,Pink,Argentina,3312,1360
+Mendelevium,Engineering,Fuscia,Canada,1782,2091
+Curium,Support,Blue,China,2988,1804
+Iridium,Marketing,Goldenrod,Greece,2160,3391
+Nobelium,Business Development,Khaki,China,2193,3881
+Platinum,Business Development,Aquamarine,Japan,2153,3192
+Einsteinium,Support,Khaki,Brazil,1320,4611
+Americium,Human Resources,Goldenrod,Tajikistan,2020,2911
+Lawrencium,Business Development,Mauv,China,3138,3522
+Bismuth,Training,Puce,Ukraine,2555,2434
+Polonium,Services,Aquamarine,Sweden,4145,2637
+Thallium,Product Management,Violet,Philippines,1453,3783
+Einsteinium,Research and Development,Aquamarine,Indonesia,4027,2794
+Gold,Business Development,Aquamarine,Denmark,2208,1917
+Gold,Research and Development,Khaki,Panama,3421,3963
+Neptunium,Engineering,Red,Indonesia,3071,1200
+Mercury,Marketing,Maroon,Czech Republic,2394,1849
+Curium,Human Resources,Turquoise,Uzbekistan,1433,3539
+Mercury,Accounting,Fuscia,China,1699,1112
+Plutonium,Product Management,Maroon,Ethiopia,2442,2856
+Californium,Accounting,Pink,Philippines,3961,3793
+Thallium,Support,Puce,Portugal,3284,4610
+Americium,Legal,Violet,Pakistan,2424,2385
+Lead,Business Development,Green,China,4476,3524
+Astatine,Business Development,Purple,China,4649,4549
+Nobelium,Services,Khaki,Belarus,2564,1616
+Protactinium,Marketing,Pink,Vietnam,2892,3354
+Francium,Legal,Teal,Burkina Faso,4410,3605
+Americium,Business Development,Indigo,Colombia,2734,2332
+Nobelium,Accounting,Khaki,China,1616,2928
+Mercury,Training,Crimson,Iran,1940,1269
+Berkelium,Product Management,Crimson,China,3667,2824
+Lawrencium,Research and Development,Goldenrod,South Korea,4738,1291
+Iridium,Sales,Red,United States,4911,3666
+Plutonium,Human Resources,Blue,Kenya,4556,4921
+Lead,Legal,Turquoise,China,4027,3738
+Radium,Accounting,Orange,China,4885,2142
+Californium,Research and Development,Orange,Indonesia,2272,1003
+Polonium,Research and Development,Turquoise,Norway,2486,4440
+Protactinium,Legal,Teal,Russia,3180,3416
+Astatine,Services,Aquamarine,China,4008,3736
+Radium,Business Development,Blue,China,1728,2754
+Radium,Engineering,Red,Indonesia,2554,1180
+Bismuth,Accounting,Pink,Philippines,1398,3134
+Uranium,Training,Goldenrod,Honduras,4007,2065
+Einsteinium,Accounting,Orange,China,2420,2183
+Thorium,Human Resources,Fuscia,Ukraine,4772,4387
+Thorium,Training,Red,Brazil,2494,4813
+Iridium,Legal,Goldenrod,Central African Republic,4497,2431
+Thorium,Services,Teal,Honduras,2362,3821
+Thorium,Support,Fuscia,Uzbekistan,4158,2850
+Californium,Training,Yellow,France,3957,4500
+Gold,Engineering,Pink,Portugal,4535,2122
+Platinum,Product Management,Blue,Russia,2502,2201
+Radon,Product Management,Orange,Brazil,2352,1433
+Neptunium,Business Development,Purple,Brazil,2422,3298
+Actinium,Support,Indigo,Dominican Republic,1315,1680
+Thallium,Training,Khaki,Indonesia,1917,2859
+Fermium,Accounting,Khaki,China,3290,4311
+Gold,Legal,Indigo,Bolivia,4758,4819
+Lead,Support,Pink,China,4478,1363
+Radium,Legal,Orange,Colombia,1817,3050
+Mendelevium,Services,Aquamarine,Indonesia,2344,4883
+Neptunium,Training,Orange,France,2909,3690
+Bismuth,Legal,Yellow,Cyprus,2202,2663
+Einsteinium,Human Resources,Blue,China,4114,1295
+Lawrencium,Product Management,Mauv,China,4331,2615
+Astatine,Accounting,Green,Philippines,1381,4348
+Mercury,Legal,Violet,China,3860,3254
+Thorium,Training,Turquoise,Ukraine,3007,3667
+Gold,Research and Development,Green,China,3548,3350
+Gold,Business Development,Goldenrod,Colombia,1885,4369
+Thallium,Accounting,Goldenrod,Egypt,3153,1006
+Curium,Product Management,Khaki,Sweden,3305,1465
+Berkelium,Sales,Violet,Philippines,4591,4174
+Lawrencium,Support,Violet,China,3437,1402
+Lead,Business Development,Fuscia,China,1546,3377
+Polonium,Services,Red,China,3539,3143
+Mendelevium,Legal,Green,Myanmar,2348,2401
+Radon,Research and Development,Crimson,Indonesia,1223,2643
+Lawrencium,Training,Indigo,China,2155,4753
+Uranium,Human Resources,Violet,Japan,4533,3635
+Nobelium,Training,Red,Russia,2704,1834
+Neptunium,Product Management,Teal,Egypt,3001,3123
+Radon,Business Development,Crimson,Greece,4149,2876
+Californium,Product Management,Mauv,Brazil,1634,1590
+Polonium,Product Management,Teal,China,2773,1762
+Francium,Human Resources,Crimson,Cyprus,4808,1697
+Americium,Marketing,Puce,Philippines,4131,4562
+Bismuth,Sales,Yellow,Japan,2681,3811
+Neptunium,Legal,Mauv,Ukraine,4021,3897
+Americium,Business Development,Mauv,Indonesia,4985,1111
+Mendelevium,Legal,Yellow,South Korea,1594,1628
+Actinium,Marketing,Aquamarine,Norway,2740,4568
+Mendelevium,Product Management,Green,China,4670,3491
+Lawrencium,Accounting,Mauv,Philippines,4113,4105
+Neptunium,Engineering,Orange,Philippines,4878,2607
+Plutonium,Training,Red,Indonesia,2649,3011
+Nobelium,Business Development,Goldenrod,Albania,1633,1828
+Nobelium,Legal,Blue,Philippines,3700,4093
+Actinium,Support,Khaki,Chad,2902,4300
+Francium,Product Management,Indigo,China,3073,2313
+Neptunium,Legal,Indigo,Brazil,2489,1662
+Radium,Business Development,Pink,Japan,3218,1541
+Lead,Business Development,Violet,Poland,3693,2603
+Einsteinium,Marketing,Maroon,Colombia,2018,4611
+Lead,Human Resources,Crimson,Brazil,2824,3402
+Actinium,Product Management,Red,Taiwan,4260,2054
+Uranium,Sales,Orange,Japan,3535,2713
+Astatine,Research and Development,Khaki,Egypt,4579,3908
+Bismuth,Research and Development,Maroon,Indonesia,4425,2545
+Fermium,Accounting,Teal,Jamaica,4270,4894
+Platinum,Training,Violet,China,4960,3183
+Gold,Training,Goldenrod,Tanzania,3518,2301
+Curium,Support,Mauv,Peru,4499,3272
+Mendelevium,Legal,Green,Namibia,1410,2296
+Curium,Business Development,Teal,China,2413,4892
+Mendelevium,Sales,Crimson,Russia,1692,4884
+Mendelevium,Sales,Khaki,Azerbaijan,2934,3982
+Uranium,Human Resources,Violet,China,1900,3579
+Plutonium,Product Management,Indigo,China,2601,4974
+Curium,Research and Development,Violet,Peru,4036,4551
+Bismuth,Legal,Goldenrod,Russia,3015,3047
+Curium,Legal,Indigo,Uzbekistan,1945,4822
+Protactinium,Research and Development,Aquamarine,Iran,2459,4933
+Neptunium,Accounting,Red,China,4481,3102
+Radon,Business Development,Fuscia,Greece,4681,3365
+Americium,Engineering,Teal,Azerbaijan,1340,4847
+Francium,Human Resources,Fuscia,Russia,2204,4222
+Uranium,Sales,Purple,Indonesia,2722,4086
+Nobelium,Product Management,Blue,China,4404,4449
+Polonium,Support,Orange,Indonesia,3078,3932
+Mercury,Accounting,Khaki,Japan,4015,1474
+Polonium,Support,Teal,China,3224,4286
+Neptunium,Accounting,Violet,China,4812,3886
+Lawrencium,Marketing,Crimson,Poland,3057,3053
+Neptunium,Research and Development,Crimson,Serbia,3005,2581
+Francium,Engineering,Blue,Uzbekistan,3390,2570
+Radium,Accounting,Crimson,China,2410,2658
+Platinum,Human Resources,Maroon,China,1135,3366
+Nobelium,Engineering,Turquoise,China,1639,1473
+Thallium,Sales,Turquoise,China,4677,3037
+Einsteinium,Training,Purple,China,2705,4156
+Lawrencium,Product Management,Mauv,Argentina,2993,3068
+Thorium,Human Resources,Khaki,China,1181,4916
+Thallium,Research and Development,Purple,China,2795,1278
+Einsteinium,Legal,Turquoise,Ivory Coast,1545,4225
+Radon,Human Resources,Turquoise,Myanmar,3881,2048
+Gold,Product Management,Fuscia,Philippines,1150,1652
+Platinum,Accounting,Pink,China,4858,2772
+Nobelium,Accounting,Orange,Poland,4032,2636
+Curium,Human Resources,Teal,Canada,3286,1722
+Nobelium,Human Resources,Mauv,China,2819,3424
+Fermium,Training,Teal,China,3389,1314
+Curium,Services,Yellow,Argentina,1087,4984
+Actinium,Services,Red,Albania,2029,4128
+Plutonium,Marketing,Violet,Philippines,4396,4397
+Mercury,Research and Development,Purple,Portugal,2187,2394
+Astatine,Legal,Goldenrod,China,4434,2143
+Thorium,Support,Yellow,China,1574,3621
+Americium,Research and Development,Khaki,Libya,3653,3428
+Einsteinium,Engineering,Teal,China,4565,2080
+Thorium,Engineering,Crimson,Croatia,1104,3181
+Thorium,Services,Turquoise,Peru,1363,2457
+Nobelium,Business Development,Green,France,1155,2162
+Radon,Accounting,Red,Japan,3113,4577
+Californium,Research and Development,Fuscia,Portugal,1446,3647
+Neptunium,Services,Purple,Serbia,4789,4575
+Polonium,Marketing,Aquamarine,Indonesia,2696,4411
+Thorium,Research and Development,Purple,China,3415,4553
+Americium,Sales,Fuscia,Czech Republic,1040,4555
+Francium,Training,Khaki,Ecuador,3229,2589
+Platinum,Engineering,Mauv,Nigeria,4348,2413
+Protactinium,Business Development,Goldenrod,New Zealand,1992,4276
+Fermium,Training,Goldenrod,Afghanistan,3315,2048
+Californium,Business Development,Maroon,Greece,1908,3500
+Einsteinium,Services,Yellow,Austria,2333,1426
+Mendelevium,Product Management,Puce,China,4049,3845
+Platinum,Support,Teal,Brazil,2516,3801
+Berkelium,Research and Development,Green,Germany,1312,3707
+Polonium,Sales,Indigo,Russia,3446,4584
+Polonium,Marketing,Indigo,China,1569,4132
+Lead,Accounting,Green,Brazil,3349,2946
+Mercury,Research and Development,Blue,Peru,3927,4292
+Fermium,Human Resources,Green,Ecuador,2970,2932
+Einsteinium,Business Development,Crimson,Macedonia,2865,4224
+Polonium,Sales,Teal,Ethiopia,3555,3868
+Iridium,Accounting,Aquamarine,China,4709,4530
+Californium,Sales,Aquamarine,Indonesia,1718,1678
+Platinum,Research and Development,Orange,Haiti,3396,1783
+Plutonium,Research and Development,Indigo,Canada,4356,1121
+Berkelium,Human Resources,Goldenrod,Poland,3333,2919
+Californium,Services,Yellow,China,4607,1985
+Americium,Sales,Puce,Brazil,2670,2683
+Nobelium,Legal,Red,Jordan,2528,1431
+Francium,Product Management,Purple,Portugal,3108,4545
+Fermium,Marketing,Orange,Indonesia,3297,2834
+Berkelium,Sales,Khaki,United States,1276,4547
+Radium,Accounting,Red,Morocco,1375,3279
+Protactinium,Support,Fuscia,Morocco,3625,2627
+Uranium,Legal,Aquamarine,Argentina,1054,4435
+Lead,Sales,Mauv,Greece,1586,2574
+Thallium,Human Resources,Khaki,Russia,4570,2720
+Bismuth,Engineering,Red,Poland,3980,4028
+Radium,Sales,Purple,Vietnam,4379,1876
+Radium,Research and Development,Puce,China,1488,3391
+Gold,Sales,Mauv,Mongolia,1531,3199
+Thorium,Business Development,Aquamarine,China,4884,4353
+Thallium,Human Resources,Puce,Argentina,1728,1059
+Einsteinium,Legal,Purple,China,2184,3684
+Radon,Product Management,Violet,Greece,1712,4853
+Einsteinium,Engineering,Aquamarine,United States,1137,3755
+Gold,Product Management,Turquoise,Montenegro,1098,4853
+Lead,Business Development,Aquamarine,Indonesia,3809,2314
+Lead,Support,Green,Pakistan,4187,3269
+Lawrencium,Engineering,Mauv,Indonesia,1761,4958
+Mercury,Research and Development,Goldenrod,Brazil,4344,1429
+Berkelium,Legal,Maroon,Poland,1578,1290
+Gold,Engineering,Puce,Indonesia,4007,1965
+Francium,Human Resources,Pink,Portugal,1750,1227
+Bismuth,Engineering,Pink,China,1296,4899
+Actinium,Services,Teal,Brazil,4367,3559
+Iridium,Legal,Blue,United States,3214,4249
+Platinum,Support,Turquoise,Russia,2240,2200
+Iridium,Sales,Mauv,Uzbekistan,4859,3343
+Californium,Human Resources,Orange,Togo,1111,1767
+Einsteinium,Sales,Pink,Poland,1945,3088
+Francium,Research and Development,Pink,Philippines,1155,1409
+Protactinium,Training,Maroon,China,2604,1832
+Lead,Support,Orange,Libya,3392,3452
+Berkelium,Engineering,Pink,Japan,3737,4023
+Mercury,Services,Goldenrod,China,3404,1969
+Curium,Human Resources,Aquamarine,Indonesia,4567,4404
+Astatine,Legal,Green,Indonesia,3440,1244
+Astatine,Engineering,Khaki,France,1982,3243
+Curium,Product Management,Teal,Paraguay,2248,4768
+Lawrencium,Training,Fuscia,Japan,3015,3833
+Iridium,Engineering,Puce,Russia,1326,3486
+Fermium,Human Resources,Pink,Sudan,3937,1707
+Actinium,Engineering,Khaki,China,3838,2218
+Thallium,Legal,Purple,Russia,4923,3424
+Radon,Legal,Fuscia,Honduras,3158,2411
+Mercury,Support,Green,China,3941,3911
+Mendelevium,Services,Aquamarine,Philippines,4052,2498
+Protactinium,Marketing,Puce,China,3004,4808
+Neptunium,Engineering,Fuscia,Sweden,3945,1332
+Berkelium,Marketing,Red,Yemen,3435,3731
+Radium,Engineering,Goldenrod,Ukraine,3095,4865
+Thorium,Research and Development,Orange,Philippines,1025,2267
+Mercury,Sales,Yellow,New Zealand,4795,4660
+Thorium,Product Management,Khaki,China,3335,2004
+Radon,Sales,Green,Russia,2234,3693
+Americium,Sales,Fuscia,Madagascar,1931,3079
+Americium,Engineering,Orange,Russia,1318,1677
+Einsteinium,Human Resources,Turquoise,Philippines,1256,2788
+Bismuth,Human Resources,Red,Chile,2424,4634
+Americium,Services,Turquoise,Peru,4458,3960
+Lead,Business Development,Orange,Germany,4200,2201
+Polonium,Training,Puce,Peru,3985,2806
+Protactinium,Product Management,Fuscia,Indonesia,2014,3642
+Uranium,Services,Indigo,Slovenia,4340,4951
+Californium,Accounting,Purple,China,1768,2704
+Curium,Services,Green,China,3214,2693
+Lawrencium,Product Management,Crimson,China,4717,1185
+Francium,Sales,Crimson,Indonesia,4505,3700
+Plutonium,Engineering,Maroon,Indonesia,3418,4517
+Actinium,Sales,Orange,Nigeria,3411,2898
+Lead,Support,Orange,Serbia,1548,3397
+Fermium,Business Development,Turquoise,Bolivia,3327,4203
+Radon,Services,Goldenrod,Canada,1232,4750
+Thallium,Product Management,Aquamarine,China,1777,2405
+Thallium,Research and Development,Khaki,Sri Lanka,4060,1789
+Lead,Research and Development,Green,Bulgaria,2931,1636
+Mercury,Training,Indigo,Ukraine,4149,3507
+Californium,Research and Development,Khaki,Brunei,3287,3663
+Platinum,Support,Goldenrod,Indonesia,3017,4225
+Plutonium,Support,Indigo,China,4966,2403
+Gold,Engineering,Blue,Poland,2793,3044
+Platinum,Human Resources,Green,China,3717,1558
+Neptunium,Support,Aquamarine,Philippines,2821,3284
+Thorium,Engineering,Khaki,China,1825,4071
+Iridium,Research and Development,Red,Indonesia,2305,2840
+Astatine,Accounting,Crimson,Portugal,3765,1349
+Mercury,Engineering,Maroon,Brazil,1173,4103
+Polonium,Product Management,Maroon,China,2700,1290
+Fermium,Engineering,Pink,Iran,4566,2656
+Mendelevium,Human Resources,Indigo,Mexico,3701,4925
+Curium,Accounting,Yellow,Ukraine,1426,1843
+Californium,Support,Aquamarine,Vietnam,3667,4190
+Curium,Support,Crimson,Indonesia,3026,1075
+Francium,Business Development,Teal,Israel,4484,2922
+Gold,Legal,Red,Palestinian Territory,2539,3896
+Protactinium,Engineering,Goldenrod,China,4912,4505
+Astatine,Business Development,Pink,Venezuela,1726,4085
+Mendelevium,Support,Khaki,Russia,3183,1662
+Curium,Product Management,Purple,Bangladesh,4664,1353
+Radon,Product Management,Mauv,Indonesia,2074,1065
+Fermium,Training,Orange,China,3736,1767
+Lawrencium,Product Management,Fuscia,Indonesia,3778,1412
+Californium,Marketing,Yellow,Taiwan,2517,4577
+Neptunium,Accounting,Violet,Pakistan,2733,1817
+Lead,Services,Indigo,Malaysia,3001,4327
+Neptunium,Research and Development,Violet,Russia,3584,3843
+Lead,Business Development,Goldenrod,South Africa,4548,4483
+Thallium,Sales,Crimson,Afghanistan,4874,4169
+Protactinium,Marketing,Puce,Ireland,1491,4746
+Uranium,Human Resources,Yellow,China,2201,2628
+Thallium,Support,Aquamarine,Croatia,3602,3326
+Lead,Sales,Blue,Indonesia,4563,1710
+Berkelium,Business Development,Red,Poland,3473,2008
+Curium,Sales,Crimson,Sweden,2846,2435
+Iridium,Marketing,Goldenrod,Morocco,3523,3795
+Lawrencium,Services,Orange,Indonesia,3868,2457
+Francium,Business Development,Turquoise,Japan,4997,4476
+Radium,Training,Orange,Philippines,4903,1140
+Platinum,Training,Turquoise,China,3976,1662
+Neptunium,Training,Crimson,Sweden,1768,3681
+Curium,Legal,Blue,France,3680,3803
+Bismuth,Training,Khaki,China,2625,2536
+Einsteinium,Business Development,Teal,Russia,2446,2823
+Astatine,Marketing,Teal,United States,4519,2137
+Francium,Engineering,Green,Ukraine,4540,2843
+Lawrencium,Services,Aquamarine,China,4335,4571
+Einsteinium,Training,Crimson,Czech Republic,2048,3784
+Californium,Marketing,Violet,Thailand,3443,3496
+Thorium,Sales,Fuscia,Russia,2656,4388
+Radium,Research and Development,Aquamarine,Peru,4169,3792
+Uranium,Engineering,Pink,Poland,4503,1434
+Uranium,Marketing,Yellow,Philippines,2455,3148
+Iridium,Research and Development,Green,Indonesia,2211,1890
+Actinium,Training,Goldenrod,Serbia,4716,2220
+Lawrencium,Research and Development,Yellow,South Africa,3300,1464
+Nobelium,Support,Aquamarine,China,2540,1006
+Protactinium,Product Management,Pink,Philippines,3751,3908
+Actinium,Sales,Fuscia,Colombia,4987,2249
+Radon,Product Management,Puce,Indonesia,3079,4431
+Lead,Business Development,Green,Russia,4660,1049
+Californium,Engineering,Khaki,Brazil,2466,3968
+Astatine,Legal,Orange,Russia,1896,3638
+Platinum,Legal,Yellow,France,4688,1066
+Radium,Sales,Maroon,Nigeria,4107,1537
+Californium,Marketing,Purple,China,1397,2886
+Californium,Training,Purple,Indonesia,3533,3030
+Einsteinium,Training,Violet,Peru,2935,1742
+Mendelevium,Sales,Mauv,China,3518,2302
+Curium,Accounting,Blue,China,3371,1330
+Gold,Product Management,Red,Brazil,3066,4186
+Lead,Product Management,Indigo,Indonesia,1379,4296
+Bismuth,Business Development,Goldenrod,Morocco,2132,1229
+Radon,Support,Pink,Georgia,3577,1499
+Iridium,Accounting,Fuscia,Sweden,3157,2598
+Francium,Training,Crimson,Portugal,1660,3176
+Einsteinium,Legal,Teal,China,3878,1690
+Berkelium,Legal,Maroon,France,3208,1357
+Francium,Support,Purple,Vanuatu,4379,1326
+Uranium,Research and Development,Violet,China,1313,2507
+Fermium,Research and Development,Green,United Kingdom,1984,2251
+Astatine,Training,Green,Israel,4632,3567
+Astatine,Sales,Red,Russia,2658,2163
+Lead,Human Resources,Teal,Slovenia,3999,1523
+Californium,Business Development,Yellow,Indonesia,4328,1375
+Americium,Accounting,Blue,Kyrgyzstan,1194,2352
+Curium,Marketing,Fuscia,Greece,2458,3888
+Berkelium,Research and Development,Yellow,Netherlands,1479,2593
+Einsteinium,Legal,Maroon,Indonesia,2716,2063
+Platinum,Engineering,Puce,China,3590,3795
+Curium,Human Resources,Mauv,Colombia,3825,4348
+Platinum,Human Resources,Crimson,Thailand,1655,4519
+Lead,Legal,Khaki,Indonesia,3337,1908
+Francium,Human Resources,Crimson,Uzbekistan,3527,3440
+Mercury,Accounting,Goldenrod,Czech Republic,2824,1139
+Mercury,Legal,Yellow,France,1743,4810
+Mendelevium,Services,Maroon,Indonesia,2553,3400
+Neptunium,Legal,Puce,Indonesia,3183,4272
+Mercury,Support,Purple,Brazil,2821,1952
+Lead,Services,Khaki,China,3761,1751
+Berkelium,Training,Mauv,Argentina,3402,1968
+Berkelium,Product Management,Violet,Brazil,2054,2789
+Uranium,Support,Maroon,South Africa,3794,3143
+Lawrencium,Accounting,Purple,Philippines,4465,3131
+Nobelium,Business Development,Turquoise,Indonesia,2074,1430
+Iridium,Engineering,Goldenrod,Russia,3376,1423
+Neptunium,Accounting,Fuscia,Syria,4738,1858
+Radon,Training,Indigo,Swaziland,2830,4884
+Francium,Business Development,Pink,Indonesia,3222,3605
+Radon,Marketing,Red,Ukraine,2437,2276
+Mendelevium,Legal,Khaki,Philippines,2015,2479
+Radon,Business Development,Crimson,Russia,3357,1760
+Mercury,Services,Mauv,China,2976,1519
+Protactinium,Legal,Red,China,3368,2959
+Californium,Services,Indigo,Czech Republic,2239,2865
+Americium,Product Management,Mauv,Cuba,2122,3755
+Mercury,Support,Khaki,Indonesia,4395,4731
+Bismuth,Marketing,Goldenrod,Ukraine,1211,2884
+Mendelevium,Product Management,Purple,Indonesia,2731,1220
+Francium,Legal,Indigo,Indonesia,1350,4553
+Fermium,Services,Yellow,Portugal,3347,1580
+Neptunium,Marketing,Teal,China,1435,1489
+Californium,Marketing,Green,Sierra Leone,1586,4972
+Americium,Support,Pink,South Korea,3910,2786
+Mendelevium,Marketing,Indigo,Honduras,3084,2270
+Americium,Product Management,Blue,Chile,3500,4244
+Curium,Training,Yellow,Ireland,1516,1193
+Curium,Business Development,Fuscia,Philippines,1679,2280
+Fermium,Sales,Violet,United States,2713,1194
+Curium,Engineering,Puce,Canada,3934,2347
+Berkelium,Marketing,Mauv,Thailand,4671,2596
+Mendelevium,Services,Yellow,Nigeria,2057,2967
+Mercury,Product Management,Orange,Jamaica,1847,4882
+Mendelevium,Marketing,Turquoise,Indonesia,2490,4336
+Iridium,Human Resources,Mauv,Greece,2918,2780
+Polonium,Support,Yellow,Sweden,4963,3011
+Thallium,Legal,Teal,China,1645,3616
+Mercury,Services,Turquoise,Russia,3908,3779
+Mendelevium,Business Development,Indigo,Ukraine,3618,1305
+Mercury,Human Resources,Orange,China,4333,2107
+Astatine,Research and Development,Teal,Greece,3409,2791
+Lawrencium,Business Development,Pink,Peru,2681,3047
+Iridium,Support,Red,Iraq,2852,2452
+Thallium,Product Management,Fuscia,Angola,1388,4426
+Francium,Sales,Yellow,Finland,4484,3915
+Thorium,Services,Crimson,Indonesia,3071,1634
+Americium,Accounting,Teal,Pakistan,3456,1844
+Lawrencium,Product Management,Orange,China,1959,1859
+Iridium,Marketing,Green,Indonesia,1870,2418
+Thorium,Accounting,Khaki,United States,3730,1904
+Protactinium,Training,Yellow,Philippines,2585,1340
+Thallium,Business Development,Indigo,Greece,4335,4720
+Californium,Legal,Fuscia,Philippines,3298,3428
+Lawrencium,Services,Turquoise,Sweden,3417,3651
+Lead,Engineering,Yellow,Brazil,2798,4447
+Platinum,Services,Red,Poland,1591,2243
+Thallium,Engineering,Mauv,Poland,3077,1190
+Mercury,Support,Fuscia,Indonesia,2222,3222
+Einsteinium,Services,Turquoise,China,3347,2463
+Platinum,Marketing,Green,Philippines,4484,2060
+Uranium,Business Development,Indigo,China,3817,4748
+Curium,Training,Green,Canada,4433,4224
+Curium,Services,Violet,Russia,4528,3400
+Neptunium,Accounting,Yellow,Brazil,4492,2672
+Radon,Business Development,Violet,Ukraine,4586,2532
+Uranium,Human Resources,Orange,Moldova,1072,4893
+Einsteinium,Human Resources,Indigo,Czech Republic,3141,4836
+Polonium,Legal,Indigo,France,2807,1389
+Polonium,Marketing,Pink,China,3254,1204
+Bismuth,Engineering,Goldenrod,Indonesia,3306,3089
+Fermium,Engineering,Indigo,China,1967,2632
+Nobelium,Product Management,Aquamarine,Portugal,4428,3246
+Mercury,Engineering,Puce,China,1307,4811
+Polonium,Sales,Blue,Mexico,2779,3258
+Thallium,Research and Development,Goldenrod,Portugal,3122,3194
+Plutonium,Support,Orange,United Kingdom,3609,3261
+Lead,Engineering,Red,Angola,3334,3319
+Astatine,Engineering,Indigo,China,3407,1007
+Californium,Product Management,Khaki,Croatia,1909,2806
+Polonium,Training,Violet,Russia,1118,4905
+Bismuth,Product Management,Orange,China,2524,3515
+Americium,Accounting,Goldenrod,United States,3205,3823
+Polonium,Engineering,Yellow,Poland,3594,2043
+Francium,Research and Development,Maroon,Brazil,2237,4234
+Lawrencium,Business Development,Yellow,China,1121,2221
+Uranium,Research and Development,Crimson,Portugal,1135,2768
+Lawrencium,Product Management,Mauv,Philippines,3369,1676
+Einsteinium,Product Management,Indigo,Finland,4223,4623
+Fermium,Services,Mauv,China,4498,3459
+Californium,Sales,Violet,Argentina,2985,3133
+Berkelium,Business Development,Crimson,Portugal,1302,3813
+Fermium,Business Development,Fuscia,China,4865,2181
+Uranium,Product Management,Fuscia,Sweden,2791,2306
+Uranium,Business Development,Indigo,Mexico,3835,1987
+Thallium,Training,Fuscia,Russia,1699,3675
+Actinium,Human Resources,Khaki,China,3402,1727
+Lead,Accounting,Teal,Indonesia,1137,2029
+Nobelium,Accounting,Red,Portugal,2980,1975
+Plutonium,Research and Development,Maroon,Mexico,3080,2022
+Neptunium,Research and Development,Indigo,Poland,1140,1730
+Uranium,Accounting,Indigo,China,3721,4711
+Californium,Research and Development,Puce,Nigeria,4690,4557
+Nobelium,Engineering,Teal,Czech Republic,1487,2909
+Americium,Services,Green,Philippines,4233,4029
+Neptunium,Accounting,Indigo,Philippines,4200,1240
+Nobelium,Accounting,Aquamarine,Yemen,2253,2824
+Mendelevium,Accounting,Blue,United States,3599,3429
+Thorium,Accounting,Green,China,3662,2025
+Radium,Engineering,Red,Serbia,4369,4654
+Gold,Marketing,Teal,Spain,4525,2651
+Curium,Research and Development,Crimson,Philippines,1374,4987
+Uranium,Services,Orange,Nicaragua,1850,1109
+Bismuth,Services,Orange,Portugal,2021,3800
+Francium,Support,Goldenrod,Finland,3072,4195
+Bismuth,Legal,Yellow,Croatia,3383,3458
+Astatine,Engineering,Green,Bosnia and Herzegovina,3790,2592
+Einsteinium,Support,Indigo,France,3192,1752
+Neptunium,Business Development,Pink,China,1223,4694
+Uranium,Marketing,Fuscia,Japan,4473,1644
+Thallium,Legal,Maroon,Croatia,2140,3589
+Gold,Services,Mauv,United States,3197,1514
+Einsteinium,Research and Development,Puce,China,1314,4482
+Gold,Research and Development,Goldenrod,Indonesia,1977,3378
+Lawrencium,Legal,Teal,Tanzania,2342,2118
+Radon,Business Development,Teal,Albania,2021,3917
+Nobelium,Training,Aquamarine,Japan,2222,1862
+Mendelevium,Legal,Fuscia,China,4838,4045
+Protactinium,Sales,Purple,Indonesia,2560,1615
+Radium,Business Development,Pink,Poland,2196,2345
+Neptunium,Legal,Purple,China,2993,1510
+Einsteinium,Services,Orange,Philippines,2835,2683
+Lawrencium,Human Resources,Puce,Philippines,1474,3875
+Gold,Training,Purple,Indonesia,1568,2486
+Lead,Support,Fuscia,Comoros,4617,2778
+Gold,Accounting,Fuscia,Portugal,4461,3949
+Polonium,Services,Crimson,Russia,3316,2497
+Nobelium,Research and Development,Crimson,Dominican Republic,3218,4123
+Protactinium,Engineering,Maroon,Russia,4718,1753
+Gold,Services,Red,Philippines,3769,4698
+Plutonium,Training,Mauv,France,3302,2221
+Gold,Engineering,Violet,France,4943,4593
+Polonium,Product Management,Pink,Russia,2440,4207
+Thorium,Legal,Turquoise,China,2719,1973
+Fermium,Engineering,Crimson,Azerbaijan,2063,2662
+Thorium,Legal,Orange,Czech Republic,4265,4687
+Americium,Training,Teal,France,1486,3814
+Radon,Business Development,Blue,Panama,1787,1693
+Radium,Research and Development,Puce,Honduras,2696,4960
+Radium,Support,Orange,Indonesia,4742,2359
+Einsteinium,Human Resources,Fuscia,Portugal,2104,1704
+Iridium,Product Management,Crimson,Thailand,2029,2823
+Bismuth,Marketing,,,3684,
+Nobelium,Services,,,1479,
+Astatine,Support,,,4010,
+Astatine,Legal,,,2123,
+Mendelevium,Research and Development,,,3974,
+Mendelevium,Business Development,,,1841,
+Bismuth,Legal,,,2974,
+Lawrencium,Human Resources,,,2496,
+Radon,Support,,,1912,
+Lawrencium,Human Resources,,,1068,
+Platinum,Marketing,,,4642,
+Nobelium,Product Management,,,2901,
+Radon,Marketing,,,4416,
+Thallium,Accounting,,,2133,
+Gold,Human Resources,,,4335,
+Thallium,Business Development,,,2456,
+Plutonium,Sales,,,2967,
+Lawrencium,Sales,,,1519,
+Protactinium,Sales,,,3844,
+Polonium,Support,,,1314,
+Francium,Services,,,4125,
+Protactinium,Marketing,,,1812,
+Lead,Marketing,,,2048,
+Polonium,Research and Development,,,1241,
+Iridium,Marketing,,,3805,
+Uranium,Business Development,,,1730,
+Lead,Sales,,,2699,
+Mendelevium,Product Management,,,2609,
+Mendelevium,Marketing,,,1768,
+Californium,Human Resources,,,2879,
+Lead,Training,,,3606,
+Plutonium,Engineering,,,1198,
+Einsteinium,Human Resources,,,1026,
+Mercury,Support,,,3683,
+Francium,Sales,,,1276,
+Polonium,Business Development,,,3463,
+Berkelium,Business Development,,,3690,
+Gold,Research and Development,,,2330,
+Plutonium,Product Management,,,1896,
+Curium,Human Resources,,,4025,
+Americium,Human Resources,,,2661,
+Berkelium,Research and Development,,,2463,
+Lawrencium,Legal,,,1012,
+Mendelevium,Sales,,,3508,
+Mendelevium,Human Resources,,,4050,
+Radon,Marketing,,,1802,
+Platinum,Sales,,,1426,
+Platinum,Support,,,2830,
+Neptunium,Engineering,,,3652,
+Berkelium,Marketing,,,1866,
+Neptunium,Training,,,2247,
+Platinum,Human Resources,,,4149,
+Radium,Business Development,,,2256,
+Mercury,Training,,,4411,
+Francium,Product Management,,,2736,
+Curium,Product Management,,,2694,
+Bismuth,Marketing,,,1251,
+Uranium,Training,,,4808,
+Lawrencium,Marketing,,,4054,
+Iridium,Human Resources,,,2886,
+Einsteinium,Sales,,,3299,
+Radium,Training,,,4906,
+Lead,Product Management,,,1592,
+Thallium,Research and Development,,,4728,
+Radon,Research and Development,,,4014,
+Thorium,Accounting,,,4970,
+Plutonium,Business Development,,,1844,
+Bismuth,Engineering,,,4597,
+Thallium,Research and Development,,,4454,
+Radium,Marketing,,,4779,
+Lead,Human Resources,,,1836,
+Einsteinium,Legal,,,2672,
+Protactinium,Engineering,,,1535,
+Platinum,Research and Development,,,2920,
+Radon,Support,,,3128,
+Neptunium,Research and Development,,,1819,
+Neptunium,Accounting,,,3061,
+Neptunium,Accounting,,,1330,
+Mendelevium,Services,,,1917,
+Francium,Marketing,,,3284,
+Californium,Research and Development,,,4597,
+Fermium,Legal,,,4646,
+Nobelium,Accounting,,,2976,
+Mercury,Services,,,1648,
+Iridium,Business Development,,,4878,
+Curium,Business Development,,,3842,
+Gold,Services,,,3875,
+Uranium,Training,,,3618,
+Lead,Business Development,,,3443,
+Neptunium,Research and Development,,,2357,
+Mendelevium,Legal,,,3948,
+Plutonium,Services,,,3083,
+Nobelium,Marketing,,,4411,
+Neptunium,Research and Development,,,3236,
+Iridium,Product Management,,,1576,
+Neptunium,Sales,,,4092,
+Francium,Marketing,,,4740,
+Francium,Services,,,1445,
+Plutonium,Engineering,,,4790,
+Fermium,Human Resources,,,2181,
+Uranium,Human Resources,,,2539,
+Fermium,Services,,,3907,
+Americium,Human Resources,,,2912,
+Curium,Accounting,,,4481,
+Iridium,Services,,,3438,
+Mendelevium,Legal,,,2233,
+Radium,Legal,,,4898,
+Plutonium,Research and Development,,,1828,
+Nobelium,Product Management,,,2432,
+Platinum,Support,,,2501,
+Lead,Sales,,,3884,
+Californium,Training,,,1585,
+Radon,Business Development,,,3181,
+Bismuth,Services,,,1396,
+Gold,Support,,,1246,
+Francium,Engineering,,,2002,
+Lead,Research and Development,,,2874,
+Nobelium,Services,,,2083,
+Actinium,Sales,,,4184,
+Thallium,Business Development,,,4466,
+Einsteinium,Training,,,3530,
+Polonium,Research and Development,,,1971,
+Francium,Accounting,,,2525,
+Einsteinium,Marketing,,,1134,
+Francium,Services,,,2232,
+Mercury,Accounting,,,1350,
+Bismuth,Engineering,,,4488,
+Radon,Services,,,4529,
+Californium,Legal,,,3007,
+Americium,Engineering,,,3842,
+Einsteinium,Marketing,,,3471,
+Americium,Engineering,,,4937,
+Actinium,Marketing,,,1011,
+Americium,Product Management,,,3567,
+Radon,Product Management,,,4069,
+Radon,Marketing,,,1261,
+Radium,Services,,,4733,
+Nobelium,Product Management,,,3211,
+Astatine,Research and Development,,,4271,
+Francium,Product Management,,,1435,
+Neptunium,Services,,,1791,
+Plutonium,Sales,,,1945,
+Thorium,Engineering,,,3139,
+Curium,Marketing,,,3803,
+Americium,Services,,,4352,
+Radium,Product Management,,,1614,
+Fermium,Training,,,2569,
+Radon,Training,,,2088,
+Einsteinium,Accounting,,,3954,
+Curium,Business Development,,,1334,
+Fermium,Support,,,4808,
+Actinium,Services,,,2697,
+Lawrencium,Marketing,,,1323,
+Fermium,Product Management,,,1716,
+Polonium,Support,,,4638,
+Mercury,Support,,,4458,
+Berkelium,Sales,,,3905,
+Berkelium,Accounting,,,2717,
+Mendelevium,Sales,,,1796,
+Curium,Legal,,,3684,
+Thorium,Legal,,,3326,
+Gold,Training,,,3248,
+Thorium,Support,,,1550,
+Platinum,Services,,,4256,
+Einsteinium,Sales,,,2118,
+Plutonium,Human Resources,,,3013,
+Iridium,Training,,,4293,
+Thorium,Support,,,2099,
+Thallium,Support,,,3255,
+Actinium,Sales,,,1506,
+Fermium,Product Management,,,1286,
+Nobelium,Legal,,,1955,
+Francium,Legal,,,3292,
+Mercury,Sales,,,1057,
+Platinum,Research and Development,,,2547,
+Astatine,Legal,,,1102,
+Einsteinium,Product Management,,,2242,
+Radon,Engineering,,,4322,
+Francium,Human Resources,,,3103,
+Iridium,Research and Development,,,4209,
+Astatine,Accounting,,,4865,
+Neptunium,Services,,,4189,
+Thorium,Business Development,,,2489,
+Berkelium,Business Development,,,4377,
+Francium,Product Management,,,4649,
+Bismuth,Business Development,,,4209,
+Radon,Research and Development,,,3730,
+Plutonium,Business Development,,,1485,
+Mendelevium,Sales,,,2638,
+Radium,Marketing,,,1183,
+Uranium,Support,,,3832,
+Radon,Services,,,1122,
+Iridium,Training,,,1040,
+Californium,Training,,,2949,
+Uranium,Services,,,2733,
+Berkelium,Business Development,,,3695,
+Californium,Services,,,3873,
+Plutonium,Engineering,,,2411,
+Plutonium,Research and Development,,,2659,
+Protactinium,Human Resources,,,4201,
+Gold,Sales,,,3407,
+Radium,Training,,,1697,
